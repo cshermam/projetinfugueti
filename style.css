@@ -1,0 +1,21 @@
+body{
+    background-color: #000;
+    color: #fff;
+    transition: background-color 0.5ms;
+}
+.dark-mode{
+    background-color: #000;
+    color: #fff;
+}
+
+#para{
+    font-style: italic;
+    font-size: 20px;
+}
+
+h1{
+    height: 200px;
+    width: 600px;
+    background-color: aqua;
+    color: #000;
+}
